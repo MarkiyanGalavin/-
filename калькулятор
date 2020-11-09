@@ -19,4 +19,4 @@ while True:
             elif sign == "**":
                 print("Виконано дію піднесення до степеню" '\n' '{} ** {} = {}'.format(num1, num2, num1 ** num2))
             else:
-                print("eror")
+                print("error")
